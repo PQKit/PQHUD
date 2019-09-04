@@ -93,7 +93,7 @@ public extension PQHUD {
     /// - Parameter color: default is [UIColor blackColor], only used for SVProgressHUDStyleCustom
     static func setForegroundColor(_ color: UIColor) {
         SVProgressHUD.setForegroundColor(color)
-    }
+    } 
     
     /// 设置背景色
     ///
